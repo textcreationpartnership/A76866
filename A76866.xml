@@ -1,0 +1,315 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Bloudy fight at sea, between the Parliament of England's fleet, commanded by General Blague, and Prince Ruperts navie, neer Carthaginia Road, upon the coast of Spain: ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1650</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76866</idno>
+            <idno type="STC">Wing B3239</idno>
+            <idno type="STC">ESTC R170689</idno>
+            <idno type="EEBO-CITATION">45504330</idno>
+            <idno type="OCLC">ocm 45504330</idno>
+            <idno type="VID">171631</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171631)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2581:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Bloudy fight at sea, between the Parliament of England's fleet, commanded by General Blague, and Prince Ruperts navie, neer Carthaginia Road, upon the coast of Spain: ...</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.W., and are to be sold at the Royal Exchange ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1650.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print show-through.</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Blake, Robert, 1599-1657.</term>
+               <term>Great Britain. --  Parliament.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Naval operations.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:171631:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 104 -->
+            <p>A bloudy Fight at Sea, BETWEEN The <hi>Parliament</hi> of <hi>England's</hi> Fleet, commanded by General <hi>Blague,</hi> and Prince <hi>Ru<g ref="char:EOLhyphen"/>perts</hi> Navie, neer <hi>Carthaginia</hi> Road, upon the Coaſt of <hi>Spain:</hi> With a moſt true and infallible Narrative of the manner of the Fight, continuing for the ſpace of 7 houres; the number of ſhips ſunk, burnt, and taken, with 500 Pieces of Ordnance; the number of men killed, ſunk, and taken, and Colonel <hi>Welch,</hi> the Rear-Admiral drowned, with 700 Officers and Sea-men: the total routing and diſperſing of the whole Navie; the manner of Prince <hi>Ruperts</hi> getting off and flying away with the <hi>Swallow;</hi> the retaking of the <hi>London-Marigold,</hi> and the reſt of the <hi>Malligo</hi> Fleet; and a Liſt of the names of both Navies. The D<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>claration of the King of <hi>Spain,</hi> concerning Prince <hi>Rupert,</hi> and the <hi>Parliament,</hi> and his ſetting forth 40 Sayl of Ships &amp; Gallies. With the Deſires of King <hi>John</hi> of <hi>Portingal,</hi> touching the States of <hi>England.</hi>
+            </p>
+            <p>Certified by ſeveral Letters from <hi>Madrid</hi>in <hi>Spain,</hi> to Marchants at the <hi>Royal Exchange</hi> in <hi>London</hi> on
+<hi>Saturday</hi> laſt; and printed, to be publiſhed in all Cities, and Market-Townes, throughout <hi>England, Scotland, Ir<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land,</hi> and <hi>VVales.</hi>
+            </p>
+            <p>FOR THE PRINCE.—FOR THE PARLIAMENT.</p>
+            <figure>
+               <figDesc>depiction of sea battle</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON,</hi> printed for G. W, and are to be ſold at the Royal Exchange in Co<gap reason="illegible: damage" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>il<g ref="char:punc">▪</g> 165<gap reason="illegible: damage" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </p>
+            <pb facs="tcp:171631:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 105 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="account_of_sea_battle">
+            <pb facs="tcp:171631:3"/>
+            <!-- PDF PAGE 106 -->
+            <pb n="1" facs="tcp:171631:3"/>
+            <!-- PDF PAGE 106 -->
+            <head>A great Fight at Sea, between Prince <hi>Ruperts</hi> Fleet, and the <hi>Parliament</hi> of ENGLAND.</head>
+            <p>BY <hi>Letters</hi> from <hi>Madrid</hi> in <hi>Spain,</hi> we have received a true and infallible Narrative of the great and bloudy fight, between Prince <hi>Rupert</hi> and Gen: <hi>Blaque,</hi> Admiral for the Parliament of <hi>England<g ref="char:punc">▪</g>
+               </hi> the manner thus. Gen. <hi>Blaque</hi> having received intelligence of Prince <hi>Ruperts</hi> ſailing towards the Coaſt of <hi>Spain,</hi> with a Reſolution to ſurprize the <hi>Malligo</hi> Fleet, bound for <hi>England,</hi> left no means
+<pb n="2" facs="tcp:171631:4"/>
+               <!-- PDF PAGE 107 -->unattempted, for the preventing his deſign; but it ſo fell out, that before he could come up to ſecure them, they were all ſurprized by the E<g ref="char:EOLhyphen"/>nemy; inſomuch, that Prince Ruperts pride was ſo exceedingly heightned, that he ſwore God dam him, Blaque ſhould never return to England alive, but that he would have him, within a dayes time, either alive or dead, and was now reſolved to fight him; in order where<g ref="char:EOLhyphen"/>unto, gave out, that each Ship ſhould prepare for battery, for that he had received informati<g ref="char:EOLhyphen"/>on, that the Engliſh Fleet were within ſix Leagues of them; which indeed; he ſoon found to be truth, for within two hours time, they diſcovered ſeveral Sail of Ships making towards them, and with a Proſpective-Glaſſe diſcovered the Engliſh Colours, which did not a little dant the courage of this vanting Prince: inſomuch, that he ſeemed to decline Engagement, and with a half Gale, endeavoured to make from them; whereupon, Gen. Blaque with all haſte made after to them, and divine providence ſo decreed his expedition, that by a fair Gale of wind, he ſoon came within Cannon ſhot of them, their Rear-Admiral the Convertine, and with the Engliſh Vice-Admiral, gave them a broad ſide, Prince Rupert anſwered with ano<g ref="char:EOLhyphen"/>ther
+<pb n="3" facs="tcp:171631:4"/>
+               <!-- PDF PAGE 107 -->Volley, and ſeconded the firſt with two broad ſides from the Swallow; after which, the reſt of the Fleets came near each other; in<g ref="char:EOLhyphen"/>ſomuch, that divers times they vvere upon the motion of grapling and boarding, the Diſpute being very hot, and with great gallantry per<g ref="char:EOLhyphen"/>formed on both ſides.</p>
+            <p>Then came up General <hi>Blaque</hi> with the <hi>Bonadventure,</hi> and <hi>Constant-Warwick,</hi> preſenting three broad ſides, gi<g ref="char:EOLhyphen"/>ving a Volley from threeſcore piece of Ordnance; which was well taken, and again anſwer'd; till at the laſt, the <hi>Elizabeth Frigat,</hi> carrying forty piece of Canon, came in by the leeward, and having reſolutely diſcharged all her Guns againſt one of Prince <hi>Ruperts</hi> ſhips, called the <hi>Lew<g ref="char:EOLhyphen"/>is of France,</hi> immediatly fell to grappling and boarding; but finding the work ſomewhat difficult, preſently be<g ref="char:EOLhyphen"/>took themſelves to their fire-works, caſting hundreds of Granado's aboard the <hi>French,</hi> and within a quarter of an hour, fired her tacklings, burnt all her ſayls, which fire; with great vehemency, ſoon deſcended down, both to de<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>k and keel, the fierceneſſe whereof, could not poſſibly be allay'd or quenched; ſo that ſhe preſently ſunk, with 44 pieces of Ordnance, and about one hundred men there periſhed in the ſea.</p>
+            <p>No ſooner was this achievement accompliſhed, but a<g ref="char:EOLhyphen"/>nother Trophy attended the Engliſh, for by the dexterity and courage of the reſt of our Mariners, they fired two more of the Princes ſhips, took five, diſperſed the reſt; ſome running themſelves aground, to the end, the men might get aſhore, and Prince <hi>Rupert</hi> narrowly eſcaped with the <hi>Swallow</hi> and another ſhip, both exceedingly rent and torn. This fight continued for the ſpace of ſeven
+<pb n="4" facs="tcp:171631:5"/>
+               <!-- PDF PAGE 108 -->hours, victory ſeeming very dubious a long time, till at the laſt, it pleaſed Divine Provi<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, to crown his ſaints and ſervants, with triumphant ſucceſs and mercies, in not onely giving a dreadful blow to the adverſary, but alſo by retaking the <hi>London Marigold,</hi> and the reſt of the <hi>Mal<g ref="char:EOLhyphen"/>ligo</hi> Fleet, which are of great value and eſtimation. For the further particulars hereof, I ſhall refer thee to the en<g ref="char:EOLhyphen"/>ſuing Letter.</p>
+            <floatingText type="letter">
+               <body>
+                  <head>Another Letter in confirmation of the aforeſaid Fight.</head>
+                  <opener>
+                     <salute>SIR,</salute>
+                  </opener>
+                  <p>IT hath pleaſed God to appear wonderful<g ref="char:EOLhyphen"/>ly for the <hi>Parliaments</hi>Navy at Sea, as well as to their Army at Land, having given them a great <g ref="char:V">Ʋ</g>ictory over their moſt inſo<g ref="char:EOLhyphen"/>lenteſt Enemy, as appears by this enſuing Narrative, <hi>viz</hi> About the 4. of this in<g ref="char:EOLhyphen"/>ſtant <hi>Decemb.</hi> Gen. <hi>Blake</hi> with about 13 Sayl<g ref="char:punc">▪</g> a Liſt whereof I have here incloſed. met with P. <hi>Rupert</hi>near <hi>Carthaginia,</hi> up<g ref="char:EOLhyphen"/>on the Coaſt of <hi>Spain,</hi> conſiſting of 27 Sayl<g ref="char:punc">▪</g> or thereabouts; a<gap reason="illegible: missing" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d after a bloudy Fight, fired
+<pb n="5" facs="tcp:171631:5"/>
+                     <!-- PDF PAGE 108 -->ſome of them, ſunk others, diſperſed the reſt, the <hi>Prince</hi> getting off only with two Ships; all which was performed with little loſſe on the <hi>Parliaments</hi>ſide, having about  30 ſlain, and 60 wounded: Ou<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> intelligence from <hi>Carthaginia</hi> ſaith, that P. <hi>Maurice</hi> periſh<g ref="char:EOLhyphen"/>ed in the Sea, being in one of the Ships that were ſunk, that Col. <hi>Welch</hi> the <hi>Rear-Ad<g ref="char:EOLhyphen"/>miral</hi> is alſo drowned, and about 40 other Commanders of note, 700 <hi>Seamen,</hi> with at leaſt 500 piece of Cannon<g ref="char:punc">▪</g> In this fight di<g ref="char:EOLhyphen"/>vers <hi>Portingals</hi> periſhed, being very reſolute and ſtout <hi>Mariners.</hi> We hear that King <hi>John</hi> of <hi>Portugal</hi> deſires a peace with the Parl, of <hi>England.</hi> His Maj. of <hi>Spain</hi> hath likewiſe declared to be aſſiſtant to the Parl. of <hi>England;</hi> General <hi>Blaque</hi> is at preſent upon the Coaſt of <hi>Spain,</hi> ſome of his Fleet are gone into the <hi>Downs,</hi>
+                  </p>
+                  <closer>
+                     <dateline>Carthaginia <date>12 December, 1650,</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+         </div>
+         <div type="lists_of_ships_crew_and_ordnance">
+            <pb n="6" facs="tcp:171631:6" rendition="simple:additions"/>
+            <!-- PDF PAGE 109 -->
+            <head>A Liſt of the two Fleets, and the number of ſhips, Men, and Ordnance, ſunk and taken.</head>
+            <p>
+               <table>
+                  <head>Gen. <hi>Blague's</hi> Fleet.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Guns</cell>
+                  </row>
+                  <row>
+                     <cell>Leopard</cell>
+                     <cell>50</cell>
+                  </row>
+                  <row>
+                     <cell>Bonadventure</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Happy Entrance</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Eliz. Frigat</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Warwick.</cell>
+                     <cell>32</cell>
+                  </row>
+                  <row>
+                     <cell>Expedition</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>John</cell>
+                     <cell>30</cell>
+                  </row>
+                  <row>
+                     <cell>Phenix</cell>
+                     <cell>20</cell>
+                  </row>
+               </table>
+And about five more.</p>
+            <p>
+               <table>
+                  <head>Ships gone to General <hi>Blague.</hi>
+                  </head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Guns.</cell>
+                  </row>
+                  <row>
+                     <cell>Centurion</cell>
+                     <cell>42</cell>
+                  </row>
+                  <row>
+                     <cell>Swiftſure</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Foreſight</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Pellican</cell>
+                     <cell>38</cell>
+                  </row>
+                  <row>
+                     <cell>Ginny Frigat</cell>
+                     <cell>20</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>Prince <hi>Rupert's</hi> Fleet.</head>
+                  <row>
+                     <cell> </cell>
+                     <cell role="label">Guns</cell>
+                  </row>
+                  <row>
+                     <cell>Swallow</cell>
+                     <cell>44</cell>
+                  </row>
+                  <row>
+                     <cell>Convertine</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Lewis of France</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Royal Dolphin</cell>
+                     <cell>40</cell>
+                  </row>
+                  <row>
+                     <cell>Royal John of <hi>Portingal.</hi>
+                     </cell>
+                     <cell>40</cell>
+                  </row>
+               </table>
+And about 22 other Ships and Frigats.</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Sunk</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>Burnt</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Routed the whole Navy.</cell>
+                  </row>
+                  <row>
+                     <cell>Killed about</cell>
+                     <cell>700</cell>
+                  </row>
+               </table>
+Sunk and taken five hun<g ref="char:EOLhyphen"/>dred piece of Ordnance.</p>
+            <p>
+               <hi>Prince Rupert</hi> narrowly eſcaped with the Swal<g ref="char:EOLhyphen"/>low, and one more.</p>
+            <trailer type="license">Publiſhed according to Order.</trailer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
